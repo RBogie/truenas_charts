@@ -1,0 +1,20 @@
+{
+    "charts": {},
+    "test": {},
+    "stable": {
+        "librephotos": {
+            "name": "librephotos",
+            "categories": [
+                "media"
+            ],
+            "app_readme": "<p>A self-hosted open source photo management service.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/librephotos\">https://truecharts.org/charts/stable/librephotos</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/stable/librephotos",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "8.0.0",
+            "latest_app_version": "2023w5",
+            "latest_human_version": "2023w5_8.0.0",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/librephotos.png"
+        }
+    }
+}
